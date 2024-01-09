@@ -1,7 +1,7 @@
 import UIKit
 
 
-// var = for declaring cariable
+// var = for declaring variable
 // let for declaring constants
 
 var greeting = "Hello, playground";
@@ -95,7 +95,7 @@ for num in arr2{
 }
 
 
-// Dictionary stpres items in an unordered list
+// Dictionary stores items in an unordered list
 var books_shelf = [1: "abhsihek", 2: "sharma"];
 books_shelf[1]
 
